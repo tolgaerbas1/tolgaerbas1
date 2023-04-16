@@ -7,9 +7,8 @@
   <a href="https://www.linkedin.com/in/tolga-erba%C5%9F-130527124/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://medium.com/@tolgaerbas07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tolgaerbas07" height="30" width="40" /></a>
   <a href="https://medium.com/@tolgaerbas07">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <div id="profile-views" align="center">
 <img src="https://komarev.com/ghpvc/?username=tolgaerbas1&style=flat-square&color=blue" alt=""/>
@@ -37,27 +36,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  &nbsp;
 </div>
-<!-- 
-### :fire: My Stats : -->
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmedmolawale&theme=dark&background=000000)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmolawale&theme=dark&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgaerbas1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## <img width="45" alt="about" src="https://raw.github.com/tolgaerbas1/tolgaerbas1/master/about.png"> More about me
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tolgaerbas1&show_icons=true&locale=en&layout=compact" alt="tolgaerbas1" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/tolgaerbas1)
-```kotlin
-val tolgaerbas = developer {
-    about {
-        name = "Tolga Erbaş"
-        company = Digieggs
-    }
-    links {
-        medium= "https://medium.com/@tolgaerbas07"
-    }
-}
-```
 
 
