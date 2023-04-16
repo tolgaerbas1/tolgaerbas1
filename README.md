@@ -6,9 +6,7 @@
 <a href="https://www.linkedin.com/in/tolgaerbas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolgaerbas1" height="30" width="40" /></a>
 <a href="https://medium.com/@tolgaerbas07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tolgaerbas07" height="30" width="40" /></a>
 </p>
-<div id="profile-views" align="center">
-<img src="https://komarev.com/ghpvc/?username=tolgaerbas1&style=flat-square&color=blue" alt=""/>
- </div>
+
 <h1>
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -35,7 +33,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgaerbas1)](https://github.com/tolgaerbas1/github-readme-stats)
 
-
-![Profile views](https://gpvc.arturio.dev/tolgaerbas1)
+<div id="profile-views" align="center">
+<img src="https://komarev.com/ghpvc/?username=tolgaerbas1&style=flat-square&color=blue" alt=""/>
+ </div>
 
 
