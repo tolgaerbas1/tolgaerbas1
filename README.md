@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+<p align="center">
 <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/tolga-erba%C5%9F-130527124/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolgaerbas1" height="30" width="40" /></a>
 <a href="https://medium.com/@tolgaerbas07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tolgaerbas07" height="30" width="40" /></a>
 </p>
@@ -18,9 +18,10 @@
 - 🔭 I’m currently working as an Android Developer.
 - 🌱 I’m currently learning Jetpack Compose.
 - 💬 Ask me about Kotlin and Android 🥇
-- 💻 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
@@ -30,8 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  &nbsp;
-</div>
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolgaerbas1)](https://github.com/tolgaerbas1/github-readme-stats)
 
