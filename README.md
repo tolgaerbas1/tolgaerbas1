@@ -3,14 +3,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tolga-erba%C5%9F-130527124/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="https://medium.com/@tolgaerbas07">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium Badge"/>
-  </a>
-</div>
+<a href="[https://linkedin.com/in/](https://www.linkedin.com/in/tolga-erba%C5%9F-130527124/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolgaerbas1" height="30" width="40" /></a>
+<a href="https://medium.com/@tolgaerbas07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tolgaerbas07" height="30" width="40" /></a>
+</p>
 <div id="profile-views" align="center">
 <img src="https://komarev.com/ghpvc/?username=tolgaerbas1&style=flat-square&color=blue" alt=""/>
  </div>
