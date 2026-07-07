@@ -26,6 +26,5 @@
 class TolgaErbas : AndroidDeveloper() {
     val location = "Istanbul, Turkey 🇹🇷"
     val focus = listOf("Kotlin", "Jetpack Compose", "Clean Architecture")
-    val currentlyLearning = "Jetpack Compose"
-    val openToWork = true
+    val currentlyLearning = "AI"
 }
